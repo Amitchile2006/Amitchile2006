@@ -9,7 +9,7 @@
 <br/>
 
 <!-- CONTACT & RESUME LINK LOGOS -->
-[![Resume](https://github.com/Amitchile2006/Amitchile2006/blob/main)](./AMIT_CHILE_RESUME.pdf)
+[![Resume](https://github.com/Amitchile2006/Amitchile2006)](./AMIT_CHILE_RESUME.pdf)
 [![Email](https://shields.io)](mailto:Chile.amit9@gmail.com)
 [![LinkedIn](https://shields.io)](https://linkedin.com)
 [![GitHub](https://shields.io)](https://github.com)
